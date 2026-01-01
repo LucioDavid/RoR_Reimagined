@@ -2484,11 +2484,11 @@
                "defaults_list": [
                   {
                      "name": "definitive",
-                     "key": "S"
+                     "key": "A"
                   },
                   {
                      "name": "left handed",
-                     "key": "J"
+                     "key": "H"
                   }
                ],
                "string_index_list": [

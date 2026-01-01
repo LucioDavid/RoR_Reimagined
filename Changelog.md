@@ -10,12 +10,12 @@ Bowman:
 Improved Bowman:
 - Is now an upgrade to the Bowman.
 - Has 5 base attack instead of 4.
-- TODO: ajustar hotkey padrão do upgrade.
+- Hotkey for unit creation and unit upgrade adjusted.
 
 Composite Bowman:
 - Moved to the Iron Age (IV).
 - Has 7 base attack instead of 5.
-- TODO: ajustar hotkey padrão do upgrade.
+- Hotkey for unit creation and unit upgrade adjusted.
 
 Slinger:
 - No longer has a bonus damage against Archers.
