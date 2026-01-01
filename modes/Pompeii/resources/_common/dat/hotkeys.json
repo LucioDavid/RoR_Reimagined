@@ -1,0 +1,3637 @@
+{
+   "hotkey_group_list": [
+      {
+         "data_name": "UNIT_COMMAND_HOTKEYS",
+         "group_id": 0,
+         "hotkey_list": [
+            {
+               "data_name": "BUILD_ECONOMIC",
+               "name_string_id": 19214,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "B"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "button_action_list": [
+                  116
+               ]
+            },
+            {
+               "data_name": "BUILD_MILITARY",
+               "name_string_id": 19215,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "V"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "button_action_list": [
+                  115
+               ]
+            },
+            {
+               "data_name": "REPAIR",
+               "name_string_id": 19224,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "R"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "button_action_list": [
+                  31
+               ]
+            },
+            {
+               "data_name": "STOP",
+               "name_string_id": 19216,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "S"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "G"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "button_action_list": [
+                  5
+               ]
+            },
+            {
+               "data_name": "UNLOAD",
+               "name_string_id": 19225,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "L"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "F"
+                  }
+               ],
+               "button_action_list": [
+                  7,
+                  172,
+                  183
+               ]
+            },
+            {
+               "data_name": "PACK",
+               "name_string_id": 19241,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "P"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "X"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "button_action_list": [
+                  110
+               ]
+            },
+            {
+               "data_name": "UNPACK",
+               "name_string_id": 19242,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "U"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "U"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "button_action_list": [
+                  111
+               ]
+            },
+            {
+               "data_name": "HEAL",
+               "name_string_id": 19221,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "E"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "W"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "button_action_list": [
+                  28
+               ]
+            },
+            {
+               "data_name": "CONVERT",
+               "name_string_id": 19222,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "button_action_list": [
+                  29
+               ]
+            },
+            {
+               "data_name": "DROP_RELIC",
+               "name_string_id": 19233,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "C"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "button_action_list": [
+                  159
+               ]
+            },
+            {
+               "data_name": "GARRISON",
+               "name_string_id": 19012,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "G"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "G"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "button_action_list": [
+                  123
+               ]
+            },
+            {
+               "data_name": "BUILDING_SET_GATHER_POINT",
+               "name_string_id": 19002,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "I"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "T"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "N"
+                  }
+               ],
+               "button_action_list": [
+                  51
+               ]
+            },
+            {
+               "data_name": "ATTACK_GROUND",
+               "name_string_id": 19220,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "R"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "button_action_list": [
+                  23
+               ]
+            },
+            {
+               "data_name": "REMOVE_GATHER_POINT",
+               "name_string_id": 19121,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "X"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "X"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "N"
+                  }
+               ],
+               "button_action_list": [
+                  152
+               ]
+            },
+            {
+               "data_name": "UNGARRISON",
+               "name_string_id": 20208,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "L"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "B"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_2"
+                  }
+               ],
+               "button_action_list": [
+                  77,
+                  78
+               ]
+            },
+            {
+               "data_name": "TRANSFORM",
+               "name_string_id": 19144,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "B"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "B"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "B"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_2"
+                  }
+               ],
+               "button_action_list": [
+                  153
+               ]
+            },
+            {
+               "data_name": "NEXT_PAGE",
+               "name_string_id": 19217,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "X"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "G"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "B"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_1"
+                  }
+               ],
+               "button_action_list": [
+                  170
+               ]
+            },
+            {
+               "data_name": "SEEK_SHELTER",
+               "name_string_id": 400017,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "F"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "V"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "button_action_list": [
+                  227
+               ]
+            },
+            {
+               "data_name": "DROPOFF_RESOURCES",
+               "name_string_id": 400021,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "A"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "button_action_list": [
+                  229
+               ]
+            },
+            {
+               "data_name": "SET_GATHER_POINT_ON_SELF",
+               "name_string_id": 19161,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "I",
+                     "alternate": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Z",
+                     "alternate": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "T",
+                     "alternate": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "N",
+                     "alternate": true
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "GAME_COMMAND_HOTKEYS",
+         "group_id": 1,
+         "hotkey_list": [
+            {
+               "data_name": "SELECT_ALL_MILITARY_BUILDINGS",
+               "name_string_id": 19003,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "VK_SPACE",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "VK_SPACE",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "VK_SPACE",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_SPACE",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  12,
+                  49,
+                  87,
+                  101,
+                  103,
+                  104
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_DOCKS",
+               "name_string_id": 19013,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "D",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "D",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "D",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  45
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_BARRACKS",
+               "name_string_id": 19014,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "B",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "B",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "B",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "B",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  12
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_ARCHERY_RANGES",
+               "name_string_id": 19015,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "A",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "A",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "A",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  87
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_STABLES",
+               "name_string_id": 19016,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "L",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "L",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "L",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  101
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_SIEGE_WORKSHOPS",
+               "name_string_id": 19017,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "K",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "K",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "K",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  49
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_STORAGE_PITS",
+               "name_string_id": 19018,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "S",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Z",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Z",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Z",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  562
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_GRANARIES",
+               "name_string_id": 19019,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "G",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "I",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "I",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  68
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_TEMPLES",
+               "name_string_id": 19020,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "P",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Y",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Y",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  104
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_TOWN_CENTERS",
+               "name_string_id": 19021,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "H",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "H",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "H",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  109
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_MARKETS",
+               "name_string_id": 19131,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "M",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "M",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "M",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "M",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  84
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_ACADEMIES",
+               "name_string_id": 19132,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "Y",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "S",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "S",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  103
+               ]
+            },
+            {
+               "data_name": "SELECT_ALL_GOVERNMENT_CENTERS",
+               "name_string_id": 19133,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "C",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "U",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "U",
+                     "control": true,
+                     "shift": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U",
+                     "control": true,
+                     "shift": true
+                  }
+               ],
+               "unit_list": [
+                  209
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "CYCLE_COMMAND_HOTKEYS",
+         "group_id": 2,
+         "hotkey_list": [
+            {
+               "data_name": "GOTO_TOWN_CENTER",
+               "name_string_id": 19026,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "H"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "H"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "H"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "G"
+                  }
+               ],
+               "unit_list": [
+                  109
+               ]
+            },
+            {
+               "data_name": "GOTO_TOWN_CENTER2",
+               "name_string_id": 19026,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "N",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "FE_VK_XBUTTON1"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "FE_VK_XBUTTON1"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "FE_VK_XBUTTON1"
+                  }
+               ],
+               "unit_list": [
+                  109
+               ]
+            },
+            {
+               "data_name": "GOTO_MARKET",
+               "name_string_id": 19027,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "M",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "M",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "M",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "M",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  84
+               ]
+            },
+            {
+               "data_name": "GOTO_BARRACKS",
+               "name_string_id": 19269,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "B",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "B",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "B",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "B",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  12
+               ]
+            },
+            {
+               "data_name": "GOTO_ARCHERY_RANGE",
+               "name_string_id": 19270,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "A",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "A",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "A",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  87
+               ]
+            },
+            {
+               "data_name": "GOTO_STABLE",
+               "name_string_id": 19271,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "L",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "L",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "L",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  101
+               ]
+            },
+            {
+               "data_name": "GOTO_SIEGE_WORKSHOP",
+               "name_string_id": 19272,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "K",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "K",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "K",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  49
+               ]
+            },
+            {
+               "data_name": "GOTO_DOCK",
+               "name_string_id": 19273,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "D",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "D",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "D",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  45
+               ]
+            },
+            {
+               "data_name": "GOTO_TEMPLE",
+               "name_string_id": 19274,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "P",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Y",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Y",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  104
+               ]
+            },
+            {
+               "data_name": "GOTO_ACADEMY",
+               "name_string_id": 19275,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "Y",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "S",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "S",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  103
+               ]
+            },
+            {
+               "data_name": "GOTO_GRANARY",
+               "name_string_id": 19276,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "G",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "I",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "I",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  68
+               ]
+            },
+            {
+               "data_name": "GOTO_GOVERNMENT_CENTER",
+               "name_string_id": 19277,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "C",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "U",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "U",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  209
+               ]
+            },
+            {
+               "data_name": "GOTO_STORAGE_PIT",
+               "name_string_id": 19292,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "S",
+                     "control": true
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Z",
+                     "control": true
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Z",
+                     "control": true
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Z",
+                     "control": true
+                  }
+               ],
+               "unit_list": [
+                  562
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "VILLAGER_HOTKEYS",
+         "name_string_id": 20003,
+         "hotkey_list": [
+            {
+               "data_name": "VILLAGER_BUILD_HOUSE",
+               "name_string_id": 19213,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "E"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16344
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_GRANARY",
+               "name_string_id": 19236,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "G"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "W"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  16157
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_ACADEMY",
+               "name_string_id": 19063,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "Y"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  16504
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_DOCK",
+               "name_string_id": 19067,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "D"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "T"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  16464
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_BARRACKS",
+               "name_string_id": 19064,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "B"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "B"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16135
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_MARKET",
+               "name_string_id": 19237,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "M"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  16131
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_WALL",
+               "name_string_id": 19211,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "W"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  16202
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_TOWER",
+               "name_string_id": 19201,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "string_index_list": [
+                  16178
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_GATE",
+               "name_string_id": 19264,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "VK_OEM_2"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "D"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K"
+                  }
+               ],
+               "string_index_list": [
+                  16203
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_FARM",
+               "name_string_id": 19200,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "F"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  16149
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_ARCHERY_RANGE",
+               "name_string_id": 19062,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "A"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "W"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  16128
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_STABLE",
+               "name_string_id": 19206,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "L"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "E"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  16171
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_TEMPLE",
+               "name_string_id": 19065,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "P"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "string_index_list": [
+                  16138
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_TOWN_CENTER",
+               "name_string_id": 19238,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "N"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "N"
+                  }
+               ],
+               "string_index_list": [
+                  16164
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_SIEGE_WORKSHOP",
+               "name_string_id": 19205,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "K"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "R"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  16169
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_GOVERNMENT_CENTER",
+               "name_string_id": 19208,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "C"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "D"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "G"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K"
+                  }
+               ],
+               "string_index_list": [
+                  16161
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_WONDER",
+               "name_string_id": 19209,
+               "context": "military",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "O"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "X"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "X"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "M"
+                  }
+               ],
+               "string_index_list": [
+                  16182
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_STORAGE_PIT",
+               "name_string_id": 19283,
+               "context": "economic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "S"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "R"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  16487
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_NEXT",
+               "name_string_id": 19243,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "X"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "V"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "V"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_PERIOD"
+                  }
+               ],
+               "button_action_list": [
+                  12
+               ]
+            },
+            {
+               "data_name": "VILLAGER_BUILD_CANCEL",
+               "name_string_id": 19240,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "B"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_2"
+                  }
+               ],
+               "string_index_list": [
+                  16179
+               ],
+               "button_action_list": [
+                  137
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "TOWN_CENTER_HOTKEYS",
+         "name_string_id": 20004,
+         "hotkey_list": [
+            {
+               "data_name": "TOWN_CENTER_CREATE_VILLAGER",
+               "name_string_id": 19054,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "C"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16121
+               ]
+            },
+            {
+               "data_name": "TOWN_CENTER_RING_TOWN_BELL",
+               "name_string_id": 19319,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "B"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "X"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "B"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "M"
+                  }
+               ],
+               "button_action_list": [
+                  163,
+                  165
+               ]
+            },
+            {
+               "data_name": "TOWN_CENTER_BACK_TO_WORK",
+               "name_string_id": 19324,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "W"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "V"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "G"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_PERIOD"
+                  }
+               ],
+               "button_action_list": [
+                  171
+               ]
+            },
+            {
+               "data_name": "TOWN_CENTER_AGE_ADVANCE",
+               "name_string_id": 19336,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  18101
+               ]
+            },
+            {
+               "data_name": "TOWN_CENTER_CITY_WATCH",
+               "name_string_id": 19335,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18008
+               ]
+            },
+            {
+               "data_name": "ALL_BACK_TO_WORK",
+               "name_string_id": 400018,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "V"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "C"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "V"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_COMMA"
+                  }
+               ],
+               "button_action_list": [
+                  228
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "DOCK_HOTKEYS",
+         "name_string_id": 20007,
+         "hotkey_list": [
+            {
+               "data_name": "DOCK_BUILD_FISHING_BOAT",
+               "name_string_id": 19045,
+               "context": "basic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "F"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16090
+               ]
+            },
+            {
+               "data_name": "DOCK_BUILD_TRADE_BOAT",
+               "name_string_id": 19044,
+               "context": "basic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "R"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  16089
+               ]
+            },
+            {
+               "data_name": "DOCK_BUILD_GALLEY",
+               "name_string_id": 19059,
+               "context": "basic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "E"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  16436
+               ]
+            },
+            {
+               "data_name": "DOCK_BUILD_CATAPULT_TRIREME",
+               "name_string_id": 19055,
+               "context": "secondary",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "C"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "G"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "string_index_list": [
+                  16287
+               ]
+            },
+            {
+               "data_name": "DOCK_BUILD_FIRE_GALLEY",
+               "name_string_id": 19279,
+               "context": "secondary",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "G"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "V"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_PERIOD"
+                  }
+               ],
+               "string_index_list": [
+                  16426
+               ]
+            },
+            {
+               "data_name": "DOCK_BUILD_TRANSPORT",
+               "name_string_id": 19284,
+               "context": "basic",
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "X"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  16443
+               ]
+            },
+            {
+               "data_name": "DOCK_FISHING_SHIP",
+               "name_string_id": 19341,
+               "context": "basic",
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  18314
+               ]
+            },
+            {
+               "data_name": "DOCK_HEAVY_TRANSPORT",
+               "name_string_id": 19342,
+               "context": "basic",
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K"
+                  }
+               ],
+               "string_index_list": [
+                  18372
+               ]
+            },
+            {
+               "data_name": "DOCK_MERCHANT_SHIP",
+               "name_string_id": 19343,
+               "context": "basic",
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18377
+               ]
+            },
+            {
+               "data_name": "DOCK_WAR_GALLEY_TRIREME",
+               "name_string_id": 19344,
+               "context": "basic",
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "string_index_list": [
+                  18034
+               ]
+            },
+            {
+               "data_name": "DOCK_CATAPULT_TRIREME_JUGGERNAUT",
+               "name_string_id": 19347,
+               "context": "secondary",
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "G"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_1"
+                  }
+               ],
+               "string_index_list": [
+                  18037
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "BARRACKS_HOTKEYS",
+         "name_string_id": 20008,
+         "hotkey_list": [
+            {
+               "data_name": "BARRACKS_CREATE_CLUBMAN",
+               "name_string_id": 19035,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16079
+               ]
+            },
+            {
+               "data_name": "BARRACKS_CREATE_SWORDSMAN",
+               "name_string_id": 19034,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "Z"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  16078
+               ]
+            },
+            {
+               "data_name": "BARRACKS_CREATE_SLINGER",
+               "name_string_id": 19073,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "L"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  16679
+               ]
+            },
+            {
+               "data_name": "BARRACKS_SWORDSMAN_UPGRADES",
+               "name_string_id": 19451,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18204
+               ]
+            },
+            {
+               "data_name": "BARRACKS_BATTLE_AXE",
+               "name_string_id": 19452,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  18176
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "ARCHERY_RANGE_HOTKEYS",
+         "name_string_id": 20009,
+         "hotkey_list": [
+            {
+               "data_name": "ARCHERY_RANGE_BOWMAN",
+               "name_string_id": 19038,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16083
+               ]
+            },
+            {
+               "data_name": "ARCHERY_RANGE_IMPROVED_BOWMAN",
+               "name_string_id": 19043,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "A"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  16087
+               ]
+            },
+            {
+               "data_name": "ARCHERY_RANGE_HORSE_ARCHER",
+               "name_string_id": 19040,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "C"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  16085
+               ]
+            },
+            {
+               "data_name": "ARCHERY_RANGE_ELEPHANT_ARCHER",
+               "name_string_id": 19041,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "E"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "string_index_list": [
+                  16086
+               ]
+            },
+            {
+               "data_name": "ARCHERY_RANGE_CHARIOT_ARCHER",
+               "name_string_id": 19032,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "R"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "V"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  16417
+               ]
+            },
+            {
+               "data_name": "ARCHERY_RANGE_IMPROVED_COMPOSITE_BOW",
+               "name_string_id": 19458,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18100
+               ]
+            },
+            {
+               "data_name": "ARCHERY_RANGE_HEAVY_HORSE_ARCHER",
+               "name_string_id": 19460,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "string_index_list": [
+                  18218
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "STABLE_HOTKEYS",
+         "name_string_id": 20010,
+         "hotkey_list": [
+            {
+               "data_name": "STABLE_CREATE_SCOUT",
+               "name_string_id": 19060,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16326
+               ]
+            },
+            {
+               "data_name": "STABLE_CREATE_CAMEL_RIDER",
+               "name_string_id": 19031,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "L"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "string_index_list": [
+                  16416
+               ]
+            },
+            {
+               "data_name": "STABLE_CREATE_CAVALRY",
+               "name_string_id": 19030,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "C"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  16068
+               ]
+            },
+            {
+               "data_name": "STABLE_CREATE_WAR_ELEPHANT",
+               "name_string_id": 19033,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "E"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  16733
+               ]
+            },
+            {
+               "data_name": "STABLE_CREATE_CHARIOT",
+               "name_string_id": 19127,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "R"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  16746
+               ]
+            },
+            {
+               "data_name": "STABLE_CAVALRY_UPGRADES",
+               "name_string_id": 19465,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K"
+                  }
+               ],
+               "string_index_list": [
+                  18207
+               ]
+            },
+            {
+               "data_name": "STABLE_SCYTHE_CHARIOT",
+               "name_string_id": 19467,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18402
+               ]
+            },
+            {
+               "data_name": "STABLE_ARMORED_ELEPHANT",
+               "name_string_id": 19152,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "string_index_list": [
+                  18299
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "SIEGE_WORKSHOP_HOTKEYS",
+         "name_string_id": 20011,
+         "hotkey_list": [
+            {
+               "data_name": "SIEGE_WORKSHOP_CREATE_CATAPULT",
+               "name_string_id": 19056,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "C"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16094
+               ]
+            },
+            {
+               "data_name": "SIEGE_WORKSHOP_CREATE_BALLISTA",
+               "name_string_id": 19285,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "B"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  16095
+               ]
+            },
+            {
+               "data_name": "SIEGE_WORKSHOP_CATAPULT_UPGRADES",
+               "name_string_id": 19476,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  18262
+               ]
+            },
+            {
+               "data_name": "SIEGE_WORKSHOP_HELEPOLIS",
+               "name_string_id": 19477,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18094
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "MONASTERY_HOTKEYS",
+         "name_string_id": 20012,
+         "hotkey_list": [
+            {
+               "data_name": "MONASTERY_CREATE_PRIEST",
+               "name_string_id": 19051,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16099
+               ]
+            },
+            {
+               "data_name": "MONASTERY_MONOTHEISM",
+               "name_string_id": 19478,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18315
+               ]
+            },
+            {
+               "data_name": "MONASTERY_POLYTHEISM",
+               "name_string_id": 19480,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  18249
+               ]
+            },
+            {
+               "data_name": "MONASTERY_MYSTICISM",
+               "name_string_id": 19481,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  18221
+               ]
+            },
+            {
+               "data_name": "MONASTERY_ZEALOTRY",
+               "name_string_id": 19482,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "string_index_list": [
+                  18045
+               ]
+            },
+            {
+               "data_name": "MONASTERY_FANATICISM",
+               "name_string_id": 19483,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K"
+                  }
+               ],
+               "string_index_list": [
+                  18220
+               ]
+            },
+            {
+               "data_name": "MONASTERY_AFTERLIFE",
+               "name_string_id": 19484,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  18222
+               ]
+            },
+            {
+               "data_name": "MONASTERY_ASTROLOGY",
+               "name_string_id": 19485,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  18412
+               ]
+            },
+            {
+               "data_name": "MONASTERY_THEOCRACY",
+               "name_string_id": 19486,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "G"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_1"
+                  }
+               ],
+               "string_index_list": [
+                  18416
+               ]
+            },
+            {
+               "data_name": "MONASTERY_MEDICINE",
+               "name_string_id": 19487,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "string_index_list": [
+                  18435
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "MARKET_HOTKEYS",
+         "name_string_id": 20013,
+         "hotkey_list": [
+            {
+               "data_name": "MARKET_CREATE_TRADE_CART",
+               "name_string_id": 19286,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16100
+               ]
+            },
+            {
+               "data_name": "MARKET_WHEEL",
+               "name_string_id": 19334,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  18211
+               ]
+            },
+            {
+               "data_name": "MARKET_FARM_UPGRADES",
+               "name_string_id": 19337,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  18012
+               ]
+            },
+            {
+               "data_name": "MARKET_GOLD_UPGRADES",
+               "name_string_id": 19338,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "string_index_list": [
+                  18055
+               ]
+            },
+            {
+               "data_name": "MARKET_STONE_UPGRADES",
+               "name_string_id": 19339,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  18276
+               ]
+            },
+            {
+               "data_name": "MARKET_WOOD_UPGRADES",
+               "name_string_id": 19340,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  18189
+               ]
+            },
+            {
+               "data_name": "MARKET_SELL_FOOD",
+               "name_string_id": 19102,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "F"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "D"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K"
+                  }
+               ],
+               "button_action_list": [
+                  128
+               ]
+            },
+            {
+               "data_name": "MARKET_SELL_WOOD",
+               "name_string_id": 19103,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "W"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "button_action_list": [
+                  127
+               ]
+            },
+            {
+               "data_name": "MARKET_SELL_STONE",
+               "name_string_id": 19104,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "S"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "button_action_list": [
+                  129
+               ]
+            },
+            {
+               "data_name": "MARKET_BUY_FOOD",
+               "name_string_id": 19111,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "D"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "C"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "C"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_COMMA"
+                  }
+               ],
+               "button_action_list": [
+                  132
+               ]
+            },
+            {
+               "data_name": "MARKET_BUY_WOOD",
+               "name_string_id": 19112,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "E"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "X"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "X"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "M"
+                  }
+               ],
+               "button_action_list": [
+                  131
+               ]
+            },
+            {
+               "data_name": "MARKET_BUY_STONE",
+               "name_string_id": 19113,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "G"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "V"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "V"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_PERIOD"
+                  }
+               ],
+               "button_action_list": [
+                  133
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "GOVERNMENT_CENTER_HOTKEYS",
+         "name_string_id": 20015,
+         "hotkey_list": [
+            {
+               "data_name": "GOVERNMENT_CENTER_ARCHITECTURE",
+               "name_string_id": 19488,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  18050
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_NOBILITY",
+               "name_string_id": 19489,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  18054
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_WRITING",
+               "name_string_id": 19490,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  18374
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_BALLISTICS",
+               "name_string_id": 19491,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18093
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_ALCHEMY",
+               "name_string_id": 19492,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K"
+                  }
+               ],
+               "string_index_list": [
+                  18047
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_ENGINEERING",
+               "name_string_id": 19493,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "string_index_list": [
+                  18378
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_ARISTOCRACY",
+               "name_string_id": 19494,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  18278
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_LOGISTICS",
+               "name_string_id": 19495,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  18321
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_URBANIZATION",
+               "name_string_id": 19498,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "string_index_list": [
+                  18320
+               ]
+            },
+            {
+               "data_name": "GOVERNMENT_CENTER_CONSCRIPTION",
+               "name_string_id": 19085,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "G"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "VK_OEM_1"
+                  }
+               ],
+               "string_index_list": [
+                  18319
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "GRANARY_HOTKEYS",
+         "name_string_id": 20017,
+         "hotkey_list": [
+            {
+               "data_name": "GRANARY_TOWER_UPGRADES",
+               "name_string_id": 19496,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  18063
+               ]
+            },
+            {
+               "data_name": "GRANARY_WALL_UPGRADES",
+               "name_string_id": 19497,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  18163
+               ]
+            },
+            {
+               "data_name": "MILL_ADD_FARM",
+               "name_string_id": 19074,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "F"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "button_action_list": [
+                  173
+               ]
+            },
+            {
+               "data_name": "MILL_AUTO_QUEUE_SEEDS",
+               "name_string_id": 19100,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "button_action_list": [
+                  184
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "STORAGE_PIT_HOTKEYS",
+         "name_string_id": 20021,
+         "hotkey_list": [
+            {
+               "data_name": "STORAGE_PIT_MELEE_UPGRADES",
+               "name_string_id": 19470,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  18067
+               ]
+            },
+            {
+               "data_name": "STORAGE_PIT_INFANTRY_PIERCE_ARMOR_UPGRADES",
+               "name_string_id": 19473,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "T"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "P"
+                  }
+               ],
+               "string_index_list": [
+                  18150
+               ]
+            },
+            {
+               "data_name": "STORAGE_PIT_INFANTRY_ARMOR_UPGRADES",
+               "name_string_id": 19471,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  18074
+               ]
+            },
+            {
+               "data_name": "STORAGE_PIT_CAVALRY_ARMOR_UPGRADES",
+               "name_string_id": 19472,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  18080
+               ]
+            },
+            {
+               "data_name": "STORAGE_PIT_ARCHER_ARMOR_UPGRADES",
+               "name_string_id": 19474,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "E"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "I"
+                  }
+               ],
+               "string_index_list": [
+                  18208
+               ]
+            }
+         ]
+      },
+      {
+         "data_name": "ACADEMY_HOTKEYS",
+         "name_string_id": 20006,
+         "hotkey_list": [
+            {
+               "data_name": "ACADEMY_CREATE_HOPLITE",
+               "name_string_id": 19070,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "T"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "Q"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "G"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "Y"
+                  }
+               ],
+               "string_index_list": [
+                  16671
+               ]
+            },
+            {
+               "data_name": "ACADEMY_HOPLITE_UPGRADES",
+               "name_string_id": 19453,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "A"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "H"
+                  }
+               ],
+               "string_index_list": [
+                  18413
+               ]
+            }
+         ]
+      }
+   ]
+}
