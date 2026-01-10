@@ -2314,6 +2314,23 @@
                ]
             },
             {
+               "data_name": "BARRACKS_SLINGER_UPGRADES",
+               "name_string_id": 19450,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "D"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "K"
+                  }
+               ],
+               "string_index_list": [
+                  18203
+               ]
+            },
+            {
                "data_name": "BARRACKS_SWORDSMAN_UPGRADES",
                "name_string_id": 19451,
                "defaults_list": [
@@ -2641,6 +2658,31 @@
                ],
                "string_index_list": [
                   16746
+               ]
+            },
+            {
+               "data_name": "STABLE_CREATE_SWORD_HORSEMAN",
+               "name_string_id": 19127,
+               "defaults_list": [
+                  {
+                     "name": "classic",
+                     "key": "R"
+                  },
+                  {
+                     "name": "definitive",
+                     "key": "W"
+                  },
+                  {
+                     "name": "high definition",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "U"
+                  }
+               ],
+               "string_index_list": [
+                  16747
                ]
             },
             {
