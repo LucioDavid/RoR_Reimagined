@@ -5262,6 +5262,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405505,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Horseman",
+          "Name String ID": 314356,
+          "Node ID": 2343,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 136,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405506,
+          "Link ID": 2343,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Light Cavalry",
+          "Name String ID": 314357,
+          "Node ID": 2345,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 137,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 193,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405507,
+          "Link ID": 2345,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Raider",
+          "Name String ID": 314358,
+          "Node ID": 2347,
+          "Node Status": "NotAvailable",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 138,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 194,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 101,
           "Draw Node Type": "UnitTech",
@@ -16461,6 +16551,96 @@
             "None"
           ],
           "Trigger Tech ID": 126,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405505,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Horseman",
+          "Name String ID": 314356,
+          "Node ID": 2343,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 136,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405506,
+          "Link ID": 2343,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Light Cavalry",
+          "Name String ID": 314357,
+          "Node ID": 2345,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 137,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 193,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405507,
+          "Link ID": 2345,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Raider",
+          "Name String ID": 314358,
+          "Node ID": 2347,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 138,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 194,
           "Use Type": "Unit"
         },
         {
@@ -31400,6 +31580,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405505,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Horseman",
+          "Name String ID": 314356,
+          "Node ID": 2343,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 136,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405506,
+          "Link ID": 2343,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Light Cavalry",
+          "Name String ID": 314357,
+          "Node ID": 2345,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 137,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 193,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405507,
+          "Link ID": 2345,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Raider",
+          "Name String ID": 314358,
+          "Node ID": 2347,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 138,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 194,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 101,
           "Draw Node Type": "UnitTech",
@@ -38868,6 +39138,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405505,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Horseman",
+          "Name String ID": 314356,
+          "Node ID": 2343,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 136,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405506,
+          "Link ID": 2343,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Light Cavalry",
+          "Name String ID": 314357,
+          "Node ID": 2345,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 137,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 193,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405507,
+          "Link ID": 2345,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Raider",
+          "Name String ID": 314358,
+          "Node ID": 2347,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 138,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 194,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 101,
           "Draw Node Type": "UnitTech",
@@ -42599,6 +42959,96 @@
             "None"
           ],
           "Trigger Tech ID": 126,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405505,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Horseman",
+          "Name String ID": 314356,
+          "Node ID": 2343,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 136,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405506,
+          "Link ID": 2343,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Light Cavalry",
+          "Name String ID": 314357,
+          "Node ID": 2345,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 137,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 193,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405507,
+          "Link ID": 2345,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Raider",
+          "Name String ID": 314358,
+          "Node ID": 2347,
+          "Node Status": "NotAvailable",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 138,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 194,
           "Use Type": "Unit"
         },
         {
@@ -50070,6 +50520,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405505,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Horseman",
+          "Name String ID": 314356,
+          "Node ID": 2343,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 136,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405506,
+          "Link ID": 2343,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Light Cavalry",
+          "Name String ID": 314357,
+          "Node ID": 2345,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 137,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 193,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405507,
+          "Link ID": 2345,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Raider",
+          "Name String ID": 314358,
+          "Node ID": 2347,
+          "Node Status": "NotAvailable",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 138,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 194,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 101,
           "Draw Node Type": "UnitTech",
@@ -57535,6 +58075,96 @@
             "None"
           ],
           "Trigger Tech ID": 126,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405505,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Horseman",
+          "Name String ID": 314356,
+          "Node ID": 2343,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 136,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405506,
+          "Link ID": 2343,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Light Cavalry",
+          "Name String ID": 314357,
+          "Node ID": 2345,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 137,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 193,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 101,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405507,
+          "Link ID": 2345,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Raider",
+          "Name String ID": 314358,
+          "Node ID": 2347,
+          "Node Status": "NotAvailable",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 138,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 194,
           "Use Type": "Unit"
         },
         {

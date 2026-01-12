@@ -1560,6 +1560,11 @@
         "Name": "Stable",
         "Techs": [
           {
+            "ID": 193,
+            "Name": "Light Cavalry",
+            "RequiredAge": 3
+          },
+          {
             "ID": 71,
             "Name": "Heavy Cavalry",
             "RequiredAge": 4
@@ -1574,6 +1579,11 @@
           {
             "ID": 448,
             "Name": "Scout",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2343,
+            "Name": "Horseman",
             "RequiredAge": 2
           },
           {
@@ -2203,6 +2213,11 @@
         "Name": "Stable",
         "Techs": [
           {
+            "ID": 193,
+            "Name": "Light Cavalry",
+            "RequiredAge": 3
+          },
+          {
             "ID": 71,
             "Name": "Heavy Cavalry",
             "RequiredAge": 4
@@ -2217,6 +2232,11 @@
           {
             "ID": 448,
             "Name": "Scout",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2343,
+            "Name": "Horseman",
             "RequiredAge": 2
           },
           {
@@ -3450,6 +3470,11 @@
         "Name": "Stable",
         "Techs": [
           {
+            "ID": 193,
+            "Name": "Light Cavalry",
+            "RequiredAge": 3
+          },
+          {
             "ID": 71,
             "Name": "Heavy Cavalry",
             "RequiredAge": 4
@@ -3459,6 +3484,11 @@
           {
             "ID": 448,
             "Name": "Scout",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2343,
+            "Name": "Horseman",
             "RequiredAge": 2
           },
           {
@@ -4731,6 +4761,11 @@
         "Name": "Stable",
         "Techs": [
           {
+            "ID": 193,
+            "Name": "Light Cavalry",
+            "RequiredAge": 3
+          },
+          {
             "ID": 71,
             "Name": "Heavy Cavalry",
             "RequiredAge": 4
@@ -4750,6 +4785,11 @@
           {
             "ID": 448,
             "Name": "Scout",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2343,
+            "Name": "Horseman",
             "RequiredAge": 2
           },
           {
@@ -5350,10 +5390,27 @@
       {
         "ID": 101,
         "Name": "Stable",
+        "Techs": [
+          {
+            "ID": 193,
+            "Name": "Light Cavalry",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 194,
+            "Name": "Raider",
+            "RequiredAge": 4
+          }
+        ],
         "Units": [
           {
             "ID": 448,
             "Name": "Scout",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2343,
+            "Name": "Horseman",
             "RequiredAge": 2
           },
           {
@@ -6639,6 +6696,16 @@
         "Name": "Stable",
         "Techs": [
           {
+            "ID": 193,
+            "Name": "Light Cavalry",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 194,
+            "Name": "Raider",
+            "RequiredAge": 4
+          },
+          {
             "ID": 71,
             "Name": "Heavy Cavalry",
             "RequiredAge": 4
@@ -6658,6 +6725,11 @@
           {
             "ID": 448,
             "Name": "Scout",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2343,
+            "Name": "Horseman",
             "RequiredAge": 2
           },
           {
@@ -10605,6 +10677,16 @@
         "Name": "Stable",
         "Techs": [
           {
+            "ID": 193,
+            "Name": "Light Cavalry",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 194,
+            "Name": "Raider",
+            "RequiredAge": 4
+          },
+          {
             "ID": 71,
             "Name": "Heavy Cavalry",
             "RequiredAge": 4
@@ -10619,6 +10701,11 @@
           {
             "ID": 448,
             "Name": "Scout",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2343,
+            "Name": "Horseman",
             "RequiredAge": 2
           },
           {

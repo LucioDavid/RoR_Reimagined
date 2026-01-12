@@ -4,6 +4,8 @@ v0.1
 
 ## Units
 
+### Archery Range
+
 Bowman:
 - Now costs 40 Food and 20 Gold, the same as the Improved Bowman and the Composite Bowman.
 - TODO: revisar strings (precisa incluir upgrade).
@@ -22,6 +24,8 @@ Composite Bowman:
 - Hotkey for unit creation and unit upgrade adjusted.
 - TODO: Revisar custo de upgrade.
 
+### Barracks
+
 Slinger:
 - No longer has a bonus damage against Archers.
 - Gain a bonus damage against Infantry.
@@ -34,8 +38,47 @@ Elite Slinger (NEW):
 - TODO: corrigir projétil --> criei e usei um novo projétil duplicando do Chronicles e ainda não funcionou. Reverti.
 - TODO: ajustar os status
 
+### Stable
+
+Horseman (NEW):
+- Available from the Tool Age (II).
+- Regional replacement to the Chariot-line.
+- No splash damage.
+- Less damage, but cheaper.
+- Bonus vs Temple Units and Siege Units.
+
+Light Cavalry (NEW):
+- Available from the Bronze Age (III).
+- Upgrade to the Horseman.
+
+Raider (NEW):
+- Available from the Iron Age (IV).
+- Upgrade to the Light Cavalry.
+
+Scout:
+- Reworked to be better at scouting.
+- TODO: ajustar status para que de fato seja melhor para explorar (mais visão em geral, revisar velocidade).
+
 # TODOs em geral
 
 - [ ]. Revisar parte lógica das Techtrees (effect).
 - [ ]. Revisar parte visual das Techtrees (json).
 - [x]. (Elite Slinger) Corrigir som de morte (está com o som de Chronicles).
+- [ ]. Revisar status da Horseman-line.
+- [ ]. Revisar bônus de civs e team bônus.
+- [ ]. Conferir aplicação de bônus sobre unidades novas.
+- [ ]. Verificar possibilidade de novos bônus para unidades novas.
+
+# New Tech Trees
+
+## Horseman-line
+
+Available for:
+
+1. Carthaginians -- no Raider
+2. Choson -- no Raider
+3. Greeks -- no Raider
+4. Macedonians -- no Raider
+5. Minoans
+6. Persians
+7. Yamato
