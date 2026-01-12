@@ -83,7 +83,7 @@ Hotkey snippet with commentaries:
                   }
                ],
                "string_index_list": [
-                  16746 // Apparently only meaningful in The Conquerors. Better to keep adding sequentially.
+                  16746 // Used to bind this hotkey definition with the Unit/Tech etc. that is going to use it.
                ]
             },
 ```

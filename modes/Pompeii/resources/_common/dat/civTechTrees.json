@@ -1078,6 +1078,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -4800,6 +4890,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
           "Use Type": "Unit"
         },
         {
@@ -8627,6 +8807,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -12361,6 +12631,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -16092,6 +16452,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
           "Use Type": "Unit"
         },
         {
@@ -19919,6 +20369,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -23650,6 +24190,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
           "Use Type": "Unit"
         },
         {
@@ -27387,6 +28017,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -31118,6 +31838,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
           "Use Type": "Unit"
         },
         {
@@ -34945,6 +35755,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -38676,6 +39576,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
           "Use Type": "Unit"
         },
         {
@@ -42503,6 +43493,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -46327,6 +47407,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -50058,6 +51228,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
           "Use Type": "Unit"
         },
         {
@@ -53885,6 +55145,96 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -57616,6 +58966,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
           "Use Type": "Unit"
         },
         {
@@ -61440,6 +62880,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405508,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Spearman",
+          "Name String ID": 314359,
+          "Node ID": 2349,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 139,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405509,
+          "Link ID": 2349,
+          "Link Node Type": "Unit",
+          "Name": "Guardsman",
+          "Name String ID": 314360,
+          "Node ID": 2351,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 140,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 196,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 4,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405510,
+          "Link ID": 2351,
+          "Link Node Type": "UnitUpgrade",
+          "Name": "Elite Guardsman",
+          "Name String ID": 314361,
+          "Node ID": 2353,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 141,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 197,
           "Use Type": "Unit"
         },
         {

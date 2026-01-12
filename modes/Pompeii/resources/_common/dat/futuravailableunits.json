@@ -159,6 +159,16 @@
             "ID": 77,
             "Name": "Legionary",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -171,6 +181,11 @@
             "ID": 74,
             "Name": "Short Swordsman",
             "RequiredAge": 3
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
+            "RequiredAge": 2
           }
         ]
       },
@@ -802,6 +817,16 @@
             "ID": 77,
             "Name": "Legionary",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -818,6 +843,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -1474,6 +1504,11 @@
             "ID": 66,
             "Name": "Long Sword",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -1490,6 +1525,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -2132,6 +2172,11 @@
             "ID": 77,
             "Name": "Legionary",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -2148,6 +2193,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -2743,6 +2793,16 @@
             "ID": 191,
             "Name": "Elite Slinger",
             "RequiredAge": 3
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -2759,6 +2819,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -3400,6 +3465,16 @@
             "ID": 63,
             "Name": "Battle Axe",
             "RequiredAge": 2
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -3416,6 +3491,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -4062,6 +4142,16 @@
             "ID": 65,
             "Name": "Broad Sword",
             "RequiredAge": 3
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -4074,6 +4164,11 @@
             "ID": 74,
             "Name": "Short Swordsman",
             "RequiredAge": 3
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
+            "RequiredAge": 2
           }
         ]
       },
@@ -4670,6 +4765,16 @@
             "ID": 65,
             "Name": "Broad Sword",
             "RequiredAge": 3
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -4686,6 +4791,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -5300,6 +5410,16 @@
             "ID": 66,
             "Name": "Long Sword",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -5316,6 +5436,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -5952,6 +6077,16 @@
             "ID": 65,
             "Name": "Broad Sword",
             "RequiredAge": 3
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -5968,6 +6103,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -6605,6 +6745,16 @@
             "ID": 77,
             "Name": "Legionary",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -6621,6 +6771,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -7286,6 +7441,16 @@
             "ID": 77,
             "Name": "Legionary",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -7302,6 +7467,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -7972,6 +8142,11 @@
             "ID": 77,
             "Name": "Legionary",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -7988,6 +8163,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -8633,6 +8813,16 @@
             "ID": 65,
             "Name": "Broad Sword",
             "RequiredAge": 3
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -8649,6 +8839,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -9303,6 +9498,16 @@
             "ID": 66,
             "Name": "Long Sword",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -9319,6 +9524,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -9942,6 +10152,16 @@
             "ID": 66,
             "Name": "Long Sword",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -9958,6 +10178,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -10598,6 +10823,11 @@
             "ID": 63,
             "Name": "Battle Axe",
             "RequiredAge": 2
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -10614,6 +10844,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -11242,6 +11477,16 @@
             "ID": 77,
             "Name": "Legionary",
             "RequiredAge": 4
+          },
+          {
+            "ID": 196,
+            "Name": "Guardsman",
+            "RequiredAge": 3
+          },
+          {
+            "ID": 197,
+            "Name": "Elite Guardsman",
+            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -11258,6 +11503,11 @@
           {
             "ID": 7,
             "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2349,
+            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]

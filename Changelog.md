@@ -68,12 +68,14 @@ Scout:
 - [ ]. Revisar bônus de civs e team bônus.
 - [ ]. Conferir aplicação de bônus sobre unidades novas.
 - [ ]. Verificar possibilidade de novos bônus para unidades novas.
+- [ ]. Verificar possibilidade de aproveitar gráficos de ataque alternativos. Várias unidades têm os gráficos prontos,
+       seria uma pena não utilizar, e dava para deixar mais diferenciadas as civilizações.
 
 # New Tech Trees
 
 ## Horseman-line
 
-Available for:
+The Horseman-line is available for:
 
 1. Carthaginians -- no Raider
 2. Choson -- no Raider
@@ -82,3 +84,12 @@ Available for:
 5. Minoans
 6. Persians
 7. Yamato
+
+## Spearman-line
+
+The Spearman-line is available for every civ, but **Elite Guardsman** is unavailable for the civs below:
+
+1. Carthaginians
+2. Choson
+3. Romans
+4. Yamato

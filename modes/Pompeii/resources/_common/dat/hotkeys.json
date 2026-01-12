@@ -2314,6 +2314,40 @@
                ]
             },
             {
+               "data_name": "BARRACKS_CREATE_SPEARMAN",
+               "name_string_id": 19448,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "R"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "O"
+                  }
+               ],
+               "string_index_list": [
+                  16680
+               ]
+            },
+            {
+               "data_name": "BARRACKS_SPEARMAN_UPGRADES",
+               "name_string_id": 19449,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "F"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "L"
+                  }
+               ],
+               "string_index_list": [
+                  16681
+               ]
+            },
+            {
                "data_name": "BARRACKS_SLINGER_UPGRADES",
                "name_string_id": 19450,
                "defaults_list": [
