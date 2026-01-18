@@ -199,6 +199,11 @@
             "RequiredAge": 2
           },
           {
+            "ID": 2355,
+            "Name": "Skirmisher",
+            "RequiredAge": 2
+          },
+          {
             "ID": 39,
             "Name": "Horse Archer",
             "RequiredAge": 4
@@ -865,12 +870,22 @@
             "ID": 57,
             "Name": "Composite Bow",
             "RequiredAge": 3
+          },
+          {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
           }
         ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -1542,12 +1557,22 @@
             "ID": 56,
             "Name": "Improved Bow",
             "RequiredAge": 3
+          },
+          {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
           }
         ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -2210,12 +2235,22 @@
             "ID": 56,
             "Name": "Improved Bow",
             "RequiredAge": 3
+          },
+          {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
           }
         ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -2841,12 +2876,22 @@
             "ID": 57,
             "Name": "Composite Bow",
             "RequiredAge": 3
+          },
+          {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
           }
         ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -3503,10 +3548,22 @@
       {
         "ID": 87,
         "Name": "Archery Range",
+        "Techs": [
+          {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          }
+        ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           }
         ]
@@ -4177,6 +4234,11 @@
         "Name": "Archery Range",
         "Techs": [
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -4186,6 +4248,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -4815,6 +4882,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -4824,6 +4896,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -5458,12 +5535,22 @@
             "ID": 57,
             "Name": "Composite Bow",
             "RequiredAge": 3
+          },
+          {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
           }
         ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -6127,6 +6214,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -6136,6 +6228,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -6795,6 +6892,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -6804,6 +6906,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -7489,12 +7596,22 @@
             "ID": 57,
             "Name": "Composite Bow",
             "RequiredAge": 3
+          },
+          {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
           }
         ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -8180,12 +8297,22 @@
             "ID": 56,
             "Name": "Improved Bow",
             "RequiredAge": 3
+          },
+          {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
           }
         ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -8863,6 +8990,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -8872,6 +9004,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -9538,6 +9675,11 @@
         "Name": "Archery Range",
         "Techs": [
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -9547,6 +9689,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -10202,6 +10349,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -10211,6 +10363,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -10868,6 +11025,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -10877,6 +11039,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -11527,6 +11694,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Skirmisher",
+            "RequiredAge": 3
+          },
+          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -11536,6 +11708,11 @@
           {
             "ID": 4,
             "Name": "Bowman",
+            "RequiredAge": 2
+          },
+          {
+            "ID": 2355,
+            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {

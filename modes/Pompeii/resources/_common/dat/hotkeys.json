@@ -2430,7 +2430,7 @@
                ]
             },
             {
-               "data_name": "ARCHERY_RANGE_IMPROVED_BOWMAN",
+               "data_name": "ARCHERY_RANGE_SKIRMISHER",
                "name_string_id": 19043,
                "defaults_list": [
                   {
@@ -2544,6 +2544,23 @@
                ],
                "string_index_list": [
                   18100
+               ]
+            },
+            {
+               "data_name": "ARCHERY_RANGE_SKIRMISHER_UPGRADES",
+               "name_string_id": 19459,
+               "defaults_list": [
+                  {
+                     "name": "definitive",
+                     "key": "S"
+                  },
+                  {
+                     "name": "left handed",
+                     "key": "J"
+                  }
+               ],
+               "string_index_list": [
+                  18217
                ]
             },
             {

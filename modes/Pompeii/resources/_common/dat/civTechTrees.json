@@ -1318,6 +1318,66 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -5073,51 +5133,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "NotAvailable",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -5139,6 +5190,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -8987,51 +9098,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -9053,6 +9155,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -12811,51 +12973,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "NotAvailable",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -12877,6 +13030,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -16635,51 +16848,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -16701,6 +16905,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -20549,51 +20813,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "NotAvailable",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -20615,6 +20870,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -24373,51 +24688,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -24439,6 +24745,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -28197,51 +28563,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "NotAvailable",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -28263,6 +28620,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -32021,51 +32438,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -32087,6 +32495,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -35935,51 +36403,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -36001,6 +36460,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -39759,51 +40278,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -39825,6 +40335,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -43673,51 +44243,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -43739,6 +44300,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -47587,51 +48208,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -47653,6 +48265,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -51411,51 +52083,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -51477,6 +52140,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -55325,51 +56048,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -55391,6 +56105,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -59149,51 +59923,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -59215,6 +59980,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -63063,51 +63888,42 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": -1,
-          "Building ID": 87,
-          "Name": "Improved Bow",
-          "Name String ID": 7048,
-          "Node ID": 56,
-          "Picture Index": 51,
-          "Use Type": "Tech"
-        },
-        {
           "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405171,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
+          "Link ID": 4,
+          "Link Node Type": "Unit",
           "Name": "Improved Bowman",
           "Name String ID": 314171,
           "Node ID": 24,
           "Node Status": "ResearchRequired",
-          "Node Type": "Unit",
+          "Node Type": "UnitUpgrade",
           "Picture Index": 7,
           "Prerequisite IDs": [
-            56,
+            0,
             0,
             0,
             0,
             0
           ],
           "Prerequisite Types": [
-            "Tech",
+            "None",
             "None",
             "None",
             "None",
             "None"
           ],
-          "Trigger Tech ID": -1,
+          "Trigger Tech ID": 56,
           "Use Type": "Unit"
         },
         {
-          "Age ID": 3,
+          "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
           "Help String ID": 405172,
           "Link ID": 24,
-          "Link Node Type": "Unit",
+          "Link Node Type": "UnitUpgrade",
           "Name": "Composite Bowman",
           "Name String ID": 314172,
           "Node ID": 492,
@@ -63129,6 +63945,66 @@
             "None"
           ],
           "Trigger Tech ID": 57,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Skirmisher",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "Unit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 87,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "Unit",
+          "Name": "Elite Skirmisher",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
