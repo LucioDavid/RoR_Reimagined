@@ -61,7 +61,8 @@ Scout:
 - [ ]. (Slinger): ajustar menções em strings como counter de arqueiros.
 - [ ]. (Slinger): mencionar em strings como counter em todas as infantarias.
 - [ ]. (Elite Slinger): corrigir projétil --> criei e usei um novo projétil duplicando do Chronicles e ainda não funcionou. Reverti.
-- [ ]. (Elite Slinger): ajustar os status
+- [ ]. (Elite Slinger): ajustar os status.
+- [ ]. (Skirmisher-line): ajustar os status.
 - [ ]. (Scout): ajustar status para que de fato seja melhor para explorar (mais visão em geral, revisar velocidade).
 - [ ]. Revisar parte lógica das Tech Trees (effect).
 - [ ]. Revisar parte visual das Tech Trees (json).
@@ -76,6 +77,7 @@ Scout:
 - [ ]. Tornar mais caro o upgrade Improved Bowman, pois dá mais alcance.
 - [ ]. Tornar mais caro o upgrade Elite Skirmisher, pois dá mais alcance.
 - [ ]. Revisar Elephant Archer. Acho que será necessário aumentar o ataque para 7.
+- [ ]. Remover Elite Skirmisher dos Hittites (Effect, Tech Tree UI e Future Available Units).
 - [x]. Future Available Units da Skirmisher-line.
 - [x]. (Elite Slinger) Corrigir som de morte (está com o som de Chronicles).
 
@@ -103,6 +105,15 @@ below:
 3. Romans
 4. Yamato
 
-## Skirmisher-line
+## Slinger-line
 
-The Elite Skirmisher upgrade is not available only for the **Assyrians**.
+Generic anti-archer ranged unit that is affected by Logistics, shield and woodworking upgrades.
+
+## Javelineer-line
+
+Roman regional anti-archer archer that has a higher base attack than the Slinger-line that it replaces
+(although it is available at the Archery Range instead of the Barracks).
+
+## Crossbowman
+
+East Asian anti-archer archer that is fast to train and has a small attack bonus vs. cavalry units.
