@@ -183,6 +183,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 7,
+            "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
             "ID": 2349,
             "Name": "Spearman",
             "RequiredAge": 2
@@ -196,11 +201,6 @@
           {
             "ID": 4,
             "Name": "Bowman",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -824,6 +824,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -870,11 +875,6 @@
             "ID": 57,
             "Name": "Composite Bow",
             "RequiredAge": 3
-          },
-          {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -882,21 +882,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -1521,6 +1506,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 199,
+            "Name": "Elite Javelineer",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -1538,8 +1528,8 @@
             "RequiredAge": 3
           },
           {
-            "ID": 7,
-            "Name": "Slinger",
+            "ID": 2355,
+            "Name": "Javelineer",
             "RequiredAge": 2
           },
           {
@@ -1557,11 +1547,6 @@
             "ID": 56,
             "Name": "Improved Bow",
             "RequiredAge": 3
-          },
-          {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -1569,21 +1554,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -2199,6 +2169,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -2235,11 +2210,6 @@
             "ID": 56,
             "Name": "Improved Bow",
             "RequiredAge": 3
-          },
-          {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -2247,21 +2217,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -2876,11 +2831,6 @@
             "ID": 57,
             "Name": "Composite Bow",
             "RequiredAge": 3
-          },
-          {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -2888,21 +2838,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 5,
@@ -3512,6 +3447,11 @@
             "RequiredAge": 2
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -3548,22 +3488,10 @@
       {
         "ID": 87,
         "Name": "Archery Range",
-        "Techs": [
-          {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          }
-        ],
         "Units": [
           {
             "ID": 4,
             "Name": "Bowman",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
             "RequiredAge": 2
           }
         ]
@@ -4223,6 +4151,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 7,
+            "Name": "Slinger",
+            "RequiredAge": 2
+          },
+          {
             "ID": 2349,
             "Name": "Spearman",
             "RequiredAge": 2
@@ -4234,11 +4167,6 @@
         "Name": "Archery Range",
         "Techs": [
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -4248,11 +4176,6 @@
           {
             "ID": 4,
             "Name": "Bowman",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -4834,6 +4757,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Javelineer",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -4856,8 +4784,8 @@
             "RequiredAge": 3
           },
           {
-            "ID": 7,
-            "Name": "Slinger",
+            "ID": 2355,
+            "Name": "Javelineer",
             "RequiredAge": 2
           },
           {
@@ -4882,11 +4810,6 @@
             "RequiredAge": 3
           },
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -4897,21 +4820,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -5489,6 +5397,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -5535,11 +5448,6 @@
             "ID": 57,
             "Name": "Composite Bow",
             "RequiredAge": 3
-          },
-          {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -5547,21 +5455,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           }
         ]
       },
@@ -6166,6 +6059,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 199,
+            "Name": "Elite Javelineer",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -6188,8 +6086,8 @@
             "RequiredAge": 3
           },
           {
-            "ID": 7,
-            "Name": "Slinger",
+            "ID": 2355,
+            "Name": "Javelineer",
             "RequiredAge": 2
           },
           {
@@ -6214,11 +6112,6 @@
             "RequiredAge": 3
           },
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -6229,21 +6122,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -6844,6 +6722,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -6892,11 +6775,6 @@
             "RequiredAge": 3
           },
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -6907,21 +6785,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -7550,6 +7413,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -7596,11 +7464,6 @@
             "ID": 57,
             "Name": "Composite Bow",
             "RequiredAge": 3
-          },
-          {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -7608,21 +7471,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 5,
@@ -8261,6 +8109,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 199,
+            "Name": "Elite Javelineer",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -8278,8 +8131,8 @@
             "RequiredAge": 3
           },
           {
-            "ID": 7,
-            "Name": "Slinger",
+            "ID": 2355,
+            "Name": "Javelineer",
             "RequiredAge": 2
           },
           {
@@ -8297,11 +8150,6 @@
             "ID": 56,
             "Name": "Improved Bow",
             "RequiredAge": 3
-          },
-          {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -8309,21 +8157,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           }
         ]
       },
@@ -8942,6 +8775,11 @@
             "RequiredAge": 3
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -8990,11 +8828,6 @@
             "RequiredAge": 3
           },
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -9005,21 +8838,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -9637,6 +9455,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -9675,11 +9498,6 @@
         "Name": "Archery Range",
         "Techs": [
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -9689,11 +9507,6 @@
           {
             "ID": 4,
             "Name": "Bowman",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
             "RequiredAge": 2
           },
           {
@@ -10301,6 +10114,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -10349,11 +10167,6 @@
             "RequiredAge": 3
           },
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -10364,21 +10177,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -10982,6 +10780,11 @@
             "RequiredAge": 2
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -11025,11 +10828,6 @@
             "RequiredAge": 3
           },
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -11040,21 +10838,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,
@@ -11646,6 +11429,11 @@
             "RequiredAge": 4
           },
           {
+            "ID": 191,
+            "Name": "Elite Slinger",
+            "RequiredAge": 3
+          },
+          {
             "ID": 196,
             "Name": "Guardsman",
             "RequiredAge": 3
@@ -11694,11 +11482,6 @@
             "RequiredAge": 3
           },
           {
-            "ID": 199,
-            "Name": "Elite Skirmisher",
-            "RequiredAge": 3
-          },
-          {
             "ID": 38,
             "Name": "Heavy Horse Archer",
             "RequiredAge": 4
@@ -11709,21 +11492,6 @@
             "ID": 4,
             "Name": "Bowman",
             "RequiredAge": 2
-          },
-          {
-            "ID": 2355,
-            "Name": "Skirmisher",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 24,
-            "Name": "Improved Bowman",
-            "RequiredAge": 3,
-            "PrereqTech": 56,
-            "PrereqIconSet": 3,
-            "PrereqIconIndex": 51,
-            "PrereqStyle": 1,
-            "PrereqStringID": 7048
           },
           {
             "ID": 39,

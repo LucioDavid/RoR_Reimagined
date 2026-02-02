@@ -7,14 +7,16 @@ v0.1
 ### Archery Range
 
 Bowman:
-- Now costs 40 Food and 20 Gold, the same as the Improved Bowman and the Composite Bowman.
+- Now costs 40 Wood and 20 Gold.
 
 Improved Bowman:
 - Is now an upgrade to the Bowman.
+- Now costs 40 Wood and 20 Gold.
 - Has 5 base attack instead of 4.
 - Hotkey for unit creation and unit upgrade adjusted.
 
 Composite Bowman:
+- Now costs 40 Wood and 20 Gold.
 - Moved to the Iron Age (IV).
 - Has 7 base attack instead of 5.
 - Hotkey for unit creation and unit upgrade adjusted.
@@ -78,6 +80,11 @@ Scout:
 - [ ]. Tornar mais caro o upgrade Elite Skirmisher, pois dá mais alcance.
 - [ ]. Revisar Elephant Archer. Acho que será necessário aumentar o ataque para 7.
 - [ ]. Remover Elite Skirmisher dos Hittites (Effect, Tech Tree UI e Future Available Units).
+- [ ]. Revisar a civ "Full Tech. Tree". Algumas unidades (como o Crossbowman, p. ex.) precisam ter o botão trocado de posição para caber.
+- [ ]. Revisar as Tasks das unidades para que todos os arqueiros à pé possam guarnecer em torres e atirar flechas, assim como aldeões.
+- [ ]. (Crossbowman): Corrigir "arco" do projétil.
+- [ ]. (Crossbowman): ser afetado por Alquimia.
+- [ ]. (Crossbowman): revisar papel. --> Minha ideia é ser uma unidade única anti-infantaria. Talvez como o Handcannoneer.
 - [x]. Future Available Units da Skirmisher-line.
 - [x]. (Elite Slinger) Corrigir som de morte (está com o som de Chronicles).
 
@@ -107,12 +114,13 @@ below:
 
 ## Slinger-line
 
-Generic anti-archer ranged unit that is affected by Logistics, shield and woodworking upgrades.
+Generic anti-archer skirmisher.
 
 ## Javelineer-line
 
-Roman regional anti-archer archer that has a higher base attack than the Slinger-line that it replaces
-(although it is available at the Archery Range instead of the Barracks).
+Roman regional anti-archer skirmisher that is stronger than the Slinger-line against archer units, but weak against other units.
+It its affected by woodworking instead of stone mining upgrades and thus can have 1 additional range.
+Replaces the Slinger-line.
 
 ## Crossbowman
 

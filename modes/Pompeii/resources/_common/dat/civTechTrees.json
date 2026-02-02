@@ -1318,66 +1318,6 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
-          "Use Type": "Unit"
-        },
-        {
           "Age ID": 4,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
@@ -4953,6 +4893,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -5190,66 +5160,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -8918,6 +8828,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -9155,66 +9095,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -12772,7 +12652,7 @@
           "Name": "Slinger",
           "Name String ID": 314350,
           "Node ID": 7,
-          "Node Status": "NotAvailable",
+          "Node Status": "ResearchedCompleted",
           "Node Type": "Unit",
           "Picture Index": 56,
           "Prerequisite IDs": [
@@ -12790,6 +12670,36 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
           "Use Type": "Unit"
         },
         {
@@ -13030,66 +12940,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "NotAvailable",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -16668,6 +16518,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -16905,66 +16785,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -20612,7 +20432,7 @@
           "Name": "Slinger",
           "Name String ID": 314350,
           "Node ID": 7,
-          "Node Status": "NotAvailable",
+          "Node Status": "ResearchedCompleted",
           "Node Type": "Unit",
           "Picture Index": 56,
           "Prerequisite IDs": [
@@ -20630,6 +20450,36 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
           "Use Type": "Unit"
         },
         {
@@ -20870,66 +20720,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -24508,6 +24298,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -24745,66 +24565,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -28383,6 +28143,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -28620,66 +28410,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -32258,6 +31988,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -32495,66 +32255,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -36223,6 +35923,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -36463,18 +36193,18 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": 2,
+          "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
+          "Help String ID": 405513,
           "Link ID": -1,
           "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
+          "Name": "Crossbowman",
+          "Name String ID": 314364,
+          "Node ID": 2359,
           "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
+          "Node Type": "RegionalUnit",
+          "Picture Index": 144,
           "Prerequisite IDs": [
             0,
             0,
@@ -36490,36 +36220,6 @@
             "None"
           ],
           "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -40098,6 +39798,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -40338,18 +40068,18 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": 2,
+          "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
+          "Help String ID": 405513,
           "Link ID": -1,
           "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
+          "Name": "Crossbowman",
+          "Name String ID": 314364,
+          "Node ID": 2359,
           "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
+          "Node Type": "RegionalUnit",
+          "Picture Index": 144,
           "Prerequisite IDs": [
             0,
             0,
@@ -40365,36 +40095,6 @@
             "None"
           ],
           "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -44063,6 +43763,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -44303,18 +44033,18 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": 2,
+          "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
+          "Help String ID": 405513,
           "Link ID": -1,
           "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
+          "Name": "Crossbowman",
+          "Name String ID": 314364,
+          "Node ID": 2359,
           "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
+          "Node Type": "RegionalUnit",
+          "Picture Index": 144,
           "Prerequisite IDs": [
             0,
             0,
@@ -44330,36 +44060,6 @@
             "None"
           ],
           "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -48007,7 +47707,7 @@
           "Name": "Slinger",
           "Name String ID": 314350,
           "Node ID": 7,
-          "Node Status": "ResearchedCompleted",
+          "Node Status": "NotAvailable",
           "Node Type": "Unit",
           "Picture Index": 56,
           "Prerequisite IDs": [
@@ -48025,6 +47725,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Javelineer",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Elite Javelineer",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -48265,66 +48055,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -51882,7 +51612,7 @@
           "Name": "Slinger",
           "Name String ID": 314350,
           "Node ID": 7,
-          "Node Status": "ResearchedCompleted",
+          "Node Status": "NotAvailable",
           "Node Type": "Unit",
           "Picture Index": 56,
           "Prerequisite IDs": [
@@ -51900,6 +51630,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Javelineer",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Elite Javelineer",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -52140,66 +51960,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -55847,7 +55607,7 @@
           "Name": "Slinger",
           "Name String ID": 314350,
           "Node ID": 7,
-          "Node Status": "ResearchedCompleted",
+          "Node Status": "NotAvailable",
           "Node Type": "Unit",
           "Picture Index": 56,
           "Prerequisite IDs": [
@@ -55865,6 +55625,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Javelineer",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Elite Javelineer",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -56105,66 +55955,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -59722,7 +59512,7 @@
           "Name": "Slinger",
           "Name String ID": 314350,
           "Node ID": 7,
-          "Node Status": "ResearchedCompleted",
+          "Node Status": "NotAvailable",
           "Node Type": "Unit",
           "Picture Index": 56,
           "Prerequisite IDs": [
@@ -59740,6 +59530,96 @@
             "None"
           ],
           "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "NotAvailable",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 2,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405511,
+          "Link ID": -1,
+          "Link Node Type": "BuildingTech",
+          "Name": "Javelineer",
+          "Name String ID": 314362,
+          "Node ID": 2355,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 142,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": -1,
+          "Use Type": "Unit"
+        },
+        {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405512,
+          "Link ID": 2355,
+          "Link Node Type": "RegionalUnit",
+          "Name": "Elite Javelineer",
+          "Name String ID": 314363,
+          "Node ID": 2357,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "RegionalUnit",
+          "Picture Index": 143,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -59980,66 +59860,6 @@
             "None"
           ],
           "Trigger Tech ID": 57,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 2,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
-          "Link ID": -1,
-          "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {
@@ -63708,6 +63528,36 @@
           "Use Type": "Unit"
         },
         {
+          "Age ID": 3,
+          "Building ID": 12,
+          "Draw Node Type": "UnitTech",
+          "Help String ID": 405504,
+          "Link ID": 7,
+          "Link Node Type": "Unit",
+          "Name": "Elite Slinger",
+          "Name String ID": 314355,
+          "Node ID": 2341,
+          "Node Status": "ResearchedCompleted",
+          "Node Type": "UnitUpgrade",
+          "Picture Index": 135,
+          "Prerequisite IDs": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "Prerequisite Types": [
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+          ],
+          "Trigger Tech ID": 191,
+          "Use Type": "Unit"
+        },
+        {
           "Age ID": 2,
           "Building ID": 12,
           "Draw Node Type": "UnitTech",
@@ -63948,18 +63798,18 @@
           "Use Type": "Unit"
         },
         {
-          "Age ID": 2,
+          "Age ID": 3,
           "Building ID": 87,
           "Draw Node Type": "UnitTech",
-          "Help String ID": 405511,
+          "Help String ID": 405513,
           "Link ID": -1,
           "Link Node Type": "BuildingTech",
-          "Name": "Skirmisher",
-          "Name String ID": 314362,
-          "Node ID": 2355,
+          "Name": "Crossbowman",
+          "Name String ID": 314364,
+          "Node ID": 2359,
           "Node Status": "ResearchedCompleted",
-          "Node Type": "Unit",
-          "Picture Index": 142,
+          "Node Type": "RegionalUnit",
+          "Picture Index": 144,
           "Prerequisite IDs": [
             0,
             0,
@@ -63975,36 +63825,6 @@
             "None"
           ],
           "Trigger Tech ID": -1,
-          "Use Type": "Unit"
-        },
-        {
-          "Age ID": 3,
-          "Building ID": 87,
-          "Draw Node Type": "UnitTech",
-          "Help String ID": 405512,
-          "Link ID": 2355,
-          "Link Node Type": "Unit",
-          "Name": "Elite Skirmisher",
-          "Name String ID": 314363,
-          "Node ID": 2357,
-          "Node Status": "ResearchedCompleted",
-          "Node Type": "UnitUpgrade",
-          "Picture Index": 143,
-          "Prerequisite IDs": [
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "Prerequisite Types": [
-            "None",
-            "None",
-            "None",
-            "None",
-            "None"
-          ],
-          "Trigger Tech ID": 199,
           "Use Type": "Unit"
         },
         {

@@ -472,10 +472,10 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 
 19034 "Swordsmen, Legionary"
 19035 "Clubman, Axeman"
-19073 "Slinger"
+19073 "Slinger-line, Javelineer-line"
 19448 "Spearman-line"
 19449 "Tech: Spearman Upgrades"
-19450 "Tech: Elite Slinger"
+19450 "Tech: Elite Slinger, Javelineer Upgrades"
 19451 "Tech: Swordsmen Upgrades"
 19452 "Tech: Battle Axe"
 
@@ -483,9 +483,9 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 19038 "Bowman-line"
 19040 "Horse Archer"
 19041 "Elephant Archer"
-19043 "Skirmisher-line"
+19043 "Javelineer-line, Crossbowman" // REMOVER
 19458 "Tech: Improved, Composite Bow"
-19459 "Tech: Skirmisher Upgrades"
+19459 "Tech: Javelineer Upgrades" // REMOVER
 19460 "Tech: Heavy Horse Archer"
 
 19030 "Cavalry, Heavy Cavalry, Cataphract"
@@ -563,6 +563,11 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 30354 "Click to tribute this player 100 food. Researching Coinage (at the Market) removes the fee. Each time you click the button, a transaction fee is also deducted from your stockpile. To tribute lots of 500, hold down the SHIFT key, and then click the button. To tribute everything in your stockpile, hold down the CTRL key, and then click the button."
 30355 "Click to tribute this player 100 gold. Researching Coinage (at the Market) removes the fee. Each time you click the button, a transaction fee is also deducted from your stockpile. To tribute lots of 500, hold down the SHIFT key, and then click the button. To tribute everything in your stockpile, hold down the CTRL key, and then click the button."
 30356 "Click to tribute this player 100 stone. Researching Coinage (at the Market) removes the fee. Each time you click the button, a transaction fee is also deducted from your stockpile. To tribute lots of 500, hold down the SHIFT key, and then click the button. To tribute everything in your stockpile, hold down the CTRL key, and then click the button."
+
+// Armor Classes
+
+12401 "Heavy Infantry"
+12427 "Light Infantry"
 
 // Main name of the Unit (ID used as is; other IDs are calculated from it)
 305001 "Academy"
@@ -1028,8 +1033,9 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 305508 "Spearman"
 305509 "Guardsman"
 305510 "Elite Guardsman"
-305511 "Skirmisher"
-305512 "Elite Skirmisher"
+305511 "Javelineer"
+305512 "Elite Javelineer"
+305513 "Crossbowman"
 
 // Short description - Units/Buildings
 306001 "Build Academy"
@@ -1114,8 +1120,9 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 306508 "Train Spearman"
 306509 "Train Guardsman"
 306510 "Train Elite Guardsman"
-306511 "Train Skirmisher"
-306512 "Train Elite Skirmisher"
+306511 "Train Javelineer"
+306512 "Train Elite Javelineer"
+306513 "Train Crossbowman"
 
 //
 // Taunt strings
@@ -1290,8 +1297,9 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 314359 "Spearman"
 314360 "Guardsman"
 314361 "Elite\nGuardsman"
-314362 "Skirmisher"
-314363 "Elite\nSkirmisher"
+314362 "Javelineer"
+314363 "Elite\nJavelineer"
+314364 "Crossbowman"
 314470 "Trade Cart"
 
 // Help text (Ingame and Techtree)
@@ -1376,8 +1384,9 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 326508 "Train <b>Spearman<b> (<cost>)\nAnti-cavalry Infantry. Strong vs. Mounted Units, especially elephants. Weak vs. Ranged Soldiers and Infantry.\n<GREY><i>Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center); to Guardsman (Barracks).<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range>"
 326509 "Train <b>Guardsman<b> (<cost>)\nAnti-cavalry Infantry. Strong vs. Mounted Units, especially elephants. Weak vs. Ranged Soldiers and Infantry.\n<GREY><i>Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center); to Elite Guardsman (Barracks).<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range>"
 326510 "Train <b>Elite Guardsman<b> (<cost>)\nAnti-cavalry Infantry. Strong vs. Mounted Units, especially elephants. Weak vs. Ranged Soldiers and Infantry.\n<GREY><i>Upgrades: attack, armor, pierce armor (Storage Pit); population space (Government Center).<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range>"
-326511 "Train <b>Skirmisher<b> (<cost>)\nAnti-archer Skirmisher that cannot attack at close range. Strong vs. Ranged Soldiers and Spearman-line. Weak vs. Slingers and units at close range.\n<GREY><i>Upgrades: armor (Storage Pit); range (Market), attack, accuracy (Government Center); to Elite Skirmisher (Archery Range).<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range>"
-326512 "Train <b>Elite Skirmisher<b> (<cost>)\nAnti-archer Skirmisher that cannot attack at close range. Strong vs. Ranged Soldiers and Spearman-line. Weak vs. Slingers and units at close range.\n<GREY><i>Upgrades: armor (Storage Pit); range (Market), attack, accuracy (Government Center).<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range>"
+326511 "Train <b>Javelineer<b> (<cost>)\nRoman regional ranged anti-archer unit. Strong vs. Ranged Soldiers and Spearman-line. Weak vs. units at close range.\n<GREY><i>Upgrades: armor (Storage Pit); range (Market), attack, accuracy (Government Center); to Elite Javelineer (Archery Range).<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range>"
+326512 "Train <b>Elite Javelineer<b> (<cost>)\nRoman regional ranged anti-archer unit. Strong vs. Ranged Soldiers and Spearman-line. Weak vs. units at close range.\n<GREY><i>Upgrades: armor (Storage Pit); range (Market), attack, accuracy (Government Center).<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range>"
+326513 "Train <b>Crossbowman<b> (<cost>)\nEast Asian regional ranged anti-archer unit. Strong vs. Ranged Soldiers and Spearman-line. Weak vs. units at close range.\n<GREY><i>Upgrades: armor (Storage Pit); range (Market), attack, accuracy (Government Center).<i><DEFAULT>\n<hp> <attack> <armor> <piercearmor> <range>"
 
 // Ingame Name - Techs
 7001 "Light Transport"
@@ -1482,7 +1491,7 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 7103 "Raider"
 7104 "Guardsman"
 7105 "Elite Guardsman"
-7106 "Elite Skirmisher"
+7106 "Elite Javelineer"
 
 // Tech name - Tech Tree
 17011 "Sentry\nTower"
@@ -1663,7 +1672,7 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 8103 "Upgrade to Raider"
 8104 "Upgrade to Guardsman"
 8105 "Upgrade to Elite Guardsman"
-8106 "Upgrade to Elite Skirmisher"
+8106 "Upgrade to Elite Javelineer"
 
 28001 "Upgrade to Light Transport"
 28004 "Upgrade to <b>Fishing Ship<b> (<cost>)\nUpgrades your Fishing Boats and lets you build Fishing Ships, which are stronger, faster and carry more food."
@@ -1765,7 +1774,7 @@ IDS_CIVTIPS_17_3 "You construct Houses faster than other civilizations."
 28103 "Upgrade to <b>Raider<b> (<cost>)\nUpgrades your Light Cavalry and lets you train Raiders, which are stronger and better armored."
 28104 "Upgrade to <b>Guardsman<b> (<cost>)\nUpgrades your Spearmen and lets you create Guardsmen, which are stronger."
 28105 "Upgrade to <b>Elite Guardsman<b> (<cost>)\nUpgrades your Guardsmen and lets you create Elite Guardsmen, which are stronger."
-28106 "Upgrade to <b>Elite Skirmisher<b> (<cost>)\nUpgrades your Skirmishers and lets you create Elite Skirmishers, which are stronger and better armored."
+28106 "Upgrade to <b>Elite Javelineer<b> (<cost>)\nUpgrades your Javelineers and lets you create Elite Javelineers, which are stronger and better armored."
 
 22300 "My villagers carried spears but refused to use them to defend themselves!"
 22301 "Alas, I could not farm in the Stone Age!"
