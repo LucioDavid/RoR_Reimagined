@@ -159,16 +159,6 @@
             "ID": 77,
             "Name": "Legionary",
             "RequiredAge": 4
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -185,11 +175,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -827,16 +812,6 @@
             "ID": 191,
             "Name": "Elite Slinger",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -853,11 +828,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -1509,11 +1479,6 @@
             "ID": 199,
             "Name": "Elite Javelineer",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -1530,11 +1495,6 @@
           {
             "ID": 2355,
             "Name": "Javelineer",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -2783,16 +2743,6 @@
             "ID": 191,
             "Name": "Elite Slinger",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -2809,11 +2759,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -3450,16 +3395,6 @@
             "ID": 191,
             "Name": "Elite Slinger",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -3476,11 +3411,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -4127,16 +4057,6 @@
             "ID": 65,
             "Name": "Broad Sword",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -4153,11 +4073,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -4760,16 +4675,6 @@
             "ID": 199,
             "Name": "Elite Javelineer",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -4786,11 +4691,6 @@
           {
             "ID": 2355,
             "Name": "Javelineer",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -5400,16 +5300,6 @@
             "ID": 191,
             "Name": "Elite Slinger",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -5426,11 +5316,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -6062,16 +5947,6 @@
             "ID": 199,
             "Name": "Elite Javelineer",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -6088,11 +5963,6 @@
           {
             "ID": 2355,
             "Name": "Javelineer",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -6725,16 +6595,6 @@
             "ID": 191,
             "Name": "Elite Slinger",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -6751,11 +6611,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -7416,16 +7271,6 @@
             "ID": 191,
             "Name": "Elite Slinger",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -7442,11 +7287,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -8112,11 +7952,6 @@
             "ID": 199,
             "Name": "Elite Javelineer",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
           }
         ],
         "Units": [
@@ -8133,11 +7968,6 @@
           {
             "ID": 2355,
             "Name": "Javelineer",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
@@ -9458,16 +9288,6 @@
             "ID": 191,
             "Name": "Elite Slinger",
             "RequiredAge": 3
-          },
-          {
-            "ID": 196,
-            "Name": "Guardsman",
-            "RequiredAge": 3
-          },
-          {
-            "ID": 197,
-            "Name": "Elite Guardsman",
-            "RequiredAge": 4
           }
         ],
         "Units": [
@@ -9484,11 +9304,6 @@
           {
             "ID": 7,
             "Name": "Slinger",
-            "RequiredAge": 2
-          },
-          {
-            "ID": 2349,
-            "Name": "Spearman",
             "RequiredAge": 2
           }
         ]
